@@ -1,0 +1,4 @@
+build/
+dist/
+requestor.egg-info/
+*.pyc

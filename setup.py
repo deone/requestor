@@ -12,7 +12,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='requestor',
-    version='0.1.0',
+    version='0.1.1',
     description='Use this package to make HTTP post calls to django APIs with csrf support, and return response in json.',
     long_description=long_description,
     url='https://github.com/deone/requestor',

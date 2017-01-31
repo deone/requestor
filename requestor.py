@@ -9,4 +9,4 @@ def requestor(url, data):
           cookies=get_response.cookies
         )
 
-    return post_response.json()
+    return post_response
